@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "nombre": "Auriculares Bluetooth Sonic X",
+    "categoria": "Electrónica",
+    "precio": 45990,
+    "stock": 25,
+    "imagen": "https://picsum.photos/seed/p1/300/200",
+    "descripcion": "Auriculares inalámbricos con cancelación de ruido y 30 horas de batería." 
+  },
+  {
+    "id": 2,
+    "nombre": "Teclado Mecánico RGB",
+    "categoria": "Computación",
+    "precio": 62500, "stock": 12,
+    "imagen": "https://picsum.photos/seed/p2/300/200",
+    "descripcion": "Teclado mecánico switch blue con retroiluminación RGB." 
+  },
+  {
+    "id": 3,
+    "nombre": "Mouse Gamer Pro 16000 DPI", 
+    "categoria": "Computación", 
+    "precio": 28900, 
+    "stock": 40, 
+    "imagen": "https://picsum.photos/seed/p3/300/200", 
+    "descripcion": "Mouse ergonómico con 7 botones programables." 
+  },
+  { 
+    "id": 4,
+    "nombre": "Monitor 24'' Full HD", 
+    "categoria": "Computación", 
+    "precio": 189000, 
+    "stock": 8, 
+    "imagen": "https://picsum.photos/seed/p4/300/200", 
+    "descripcion": "Monitor IPS de 24 pulgadas, 75Hz, HDMI y VGA." 
+  },
+  {
+    "id": 5,
+    "nombre": "Smartwatch Fit Band 5", 
+    "categoria": "Electrónica", 
+    "precio": 38700, 
+    "stock": 30, 
+    "imagen": "https://picsum.photos/seed/p5/300/200", 
+    "descripcion": "Reloj inteligente con monitor de ritmo cardíaco y GPS." 
+  },
+  {
+   "id": 6,
+   "nombre": "Zapatillas Running AirLite", 
+   "categoria": "Indumentaria", 
+   "precio": 74900, 
+   "stock": 18, 
+   "imagen": "https://picsum.photos/seed/p6/300/200", 
+   "descripcion": "Zapatillas livianas con amortiguación para running." 
+  },
+  {
+   "id": 7,
+   "nombre": "Campera Rompeviento", 
+   "categoria": "Indumentaria", 
+   "precio": 54200, 
+   "stock": 22, 
+   "imagen": "https://picsum.photos/seed/p7/300/200", 
+   "descripcion": "Campera impermeable ideal para media estación." 
+  },
+  {
+   "id": 8,
+   "nombre": "Remera Algodón Básica", 
+   "categoria": "Indumentaria", 
+   "precio": 12500, 
+   "stock": 100, 
+   "imagen": "https://picsum.photos/seed/p8/300/200", 
+   "descripcion": "Remera 100% algodón, varios colores disponibles." 
+  },
+  {
+   "id": 9,
+   "nombre": "Mochila Urbana 25L", 
+   "categoria": "Accesorios", 
+   "precio": 33400, 
+   "stock": 35, 
+   "imagen": "https://picsum.photos/seed/p9/300/200", 
+   "descripcion": "Mochila con compartimento para notebook de hasta 15.6''." 
+  },
+  {
+   "id": 10,
+   "nombre": "Termo Acero Inoxidable 1L", 
+   "categoria": "Hogar", 
+   "precio": 29800, 
+   "stock": 50, 
+   "imagen": "https://picsum.photos/seed/p10/300/200", 
+   "descripcion": "Termo que mantiene la temperatura por 24 horas." 
+  },
+  {
+   "id": 11,
+   "nombre": "Mate de Calabaza con Virola", 
+   "categoria": "Hogar", 
+   "precio": 9800, 
+   "stock": 60, 
+   "imagen": "https://picsum.photos/seed/p11/300/200", 
+   "descripcion": "Mate artesanal curado, con virola de acero." 
+  },
+  {
+   "id": 12,
+   "nombre": "Cafetera Eléctrica 12 Tazas", 
+   "categoria": "Hogar",
+   "precio": 47300,
+   "stock": 14,
+   "imagen": "https://picsum.photos/seed/p12/300/200",
+   "descripcion": "Cafetera de filtro con jarra de vidrio y función keep warm."
+  },
+  {
+   "id": 13,
+   "nombre": "Licuadora 600W", 
+   "categoria": "Hogar", 
+   "precio": 36500, 
+   "stock": 20, 
+   "imagen": "https://picsum.photos/seed/p13/300/200", 
+   "descripcion": "Licuadora con jarra de 1.5L y 4 velocidades." 
+  },
+  {
+   "id": 14,
+   "nombre": "Lámpara LED de Escritorio", 
+   "categoria": "Hogar", 
+   "precio": 15900, 
+   "stock": 45, 
+   "imagen": "https://picsum.photos/seed/p14/300/200", 
+   "descripcion": "Lámpara con brazo flexible y 3 niveles de intensidad." 
+  },
+  {
+    "id": 15,
+    "nombre": "Silla Ergonómica de Oficina", 
+    "categoria": "Muebles", 
+    "precio": 142000, 
+    "stock": 6, 
+    "imagen": "https://picsum.photos/seed/p15/300/200", 
+    "descripcion": "Silla con respaldo reclinable y soporte lumbar." 
+  },
+  {
+    "id": 16,
+    "nombre": "Escritorio Melamina 120cm", 
+    "categoria": "Muebles", 
+    "precio": 98500, 
+    "stock": 9, 
+    "imagen": "https://picsum.photos/seed/p16/300/200", 
+    "descripcion": "Escritorio con cajonera y pasacables." 
+  },
+  {
+    "id": 17,
+    "nombre": "Parlante Portátil Bluetooth", 
+    "categoria": "Electrónica",
+    "precio": 41200,
+    "stock": 27,
+    "imagen":"https://picsum.photos/seed/p17/300/200",
+    "descripcion":"Parlante resistente al agua con 12 horas de autonomía." 
+  },
+  {
+    "id": 18,
+    "nombre": "Pelota de Fútbol N°5", 
+    "categoria": "Deportes", 
+    "precio": 21700, 
+    "stock": 33, 
+    "imagen": "https://picsum.photos/seed/p18/300/200", 
+    "descripcion": "Pelota cosida a máquina, ideal para césped natural." 
+  },
+  {
+    "id": 19,
+    "nombre": "Set de Pesas Ajustables 20kg", 
+    "categoria": "Deportes", 
+    "precio": 67800, 
+    "stock": 11, 
+    "imagen": "https://picsum.photos/seed/p19/300/200", 
+    "descripcion": "Par de mancuernas con discos intercambiables." 
+  },
+  {
+    "id": 20,
+    "nombre": "Bicicleta Rodado 29 MTB", 
+    "categoria": "Deportes", 
+    "precio": 385000, 
+    "stock": 4, 
+    "imagen": "https://picsum.photos/seed/p20/300/200", 
+    "descripcion": "Mountain bike con 21 velocidades y frenos a disco." 
+  }
+]
